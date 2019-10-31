@@ -6,3 +6,5 @@ This is an implementation of Wordnet package in R. Just input a piece of text wh
   1. wordnet
   2. tm
   3. ngram
+
+## All the contributions will be welcomed
